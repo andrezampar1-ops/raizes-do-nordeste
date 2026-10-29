@@ -89,7 +89,7 @@ npm --version
 git clone https://github.com/andrezampar1-ops/raizes-do-nordeste
 
 3. Acesse o diretório:
-cd Raizes-do-nordeste---back--end
+cd raizes-do-nordeste
 
 5. Instale as dependências
 npm install
